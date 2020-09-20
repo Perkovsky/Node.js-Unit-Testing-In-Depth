@@ -1,4 +1,4 @@
-## Murtez Alrohani, Node.js Unit Testing In-Depth 2020
+## Murtez Alrohani. Node.js Unit Testing In-Depth 2020
 
 - **Theory**
 	* [lib\demo.test.js](https://github.com/Perkovsky/Node.js-Unit-Testing-In-Depth/blob/master/lib/demo.test.js)
